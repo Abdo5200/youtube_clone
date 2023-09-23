@@ -6,7 +6,7 @@ class ChannelLogo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(right: 8.0, left: 8, bottom: 20),
+      padding: const EdgeInsets.only(right: 8.0, left: 8, bottom: 21),
       child: Container(
         width: MediaQuery.of(context).size.width * 0.12,
         height: MediaQuery.of(context).size.width * 0.12,
